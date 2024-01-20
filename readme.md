@@ -8,7 +8,7 @@ Welcome to the Responsive Design Experiment! In this project, we dive into the f
 
 The project theme revolves around "Responsive Design in the Cosmos." Drawing inspiration from the vastness of space, we aim to showcase the beauty of responsive layouts through a cosmic lens.
 
-## Credits and Acknowledgments 🙌
+## Credits 🙌
 
 Special thanks to [SVG Repo](https://www.svgrepo.com/) for providing the stunning SVG images that bring our cosmic design to life.
 
